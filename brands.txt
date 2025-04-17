@@ -1,1 +1,1 @@
-["7-Eleven", "ASTRON", "Ampol", "BP", "Budget", "Caltex", "ChargePoint", "Chargefox", "Coles Express", "Costco", "EG Ampol", "EVUp", "Enhance", "Everty", "Evie Networks", "Exploren", "Independent", "Independent EV", "Inland Petroleum", "JOLT", "Liberty", "Lowes", "Metro Fuel", "Mobil", "NRMA", "Pearl Energy", "Reddy Express", "Shell", "South West", "Speedway", "Tesla", "Transwest Fuels", "U-Go", "Ultra Petroleum", "United", "Westside", "Woodham Petroleum"]
+
